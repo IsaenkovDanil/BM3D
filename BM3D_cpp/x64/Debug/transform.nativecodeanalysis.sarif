@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33521.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/transform.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "95615ad3aa84f4b60ca64b528bf4a9027c25d9a7133b80fa11f870594c563270"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/transform.h"
+          },
+          "hashes": {
+            "sha-256": "fb9ba5bc721b0c4a9dd852eb4a4a68d93e102f5d1f10b13b91a85adb0071f6f7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/src/vcpkg/vcpkg/installed/x64-windows/include/fftw3.h"
+          },
+          "hashes": {
+            "sha-256": "0dd1b988b681d5797aaf10c2c57c107f7dca510695e4b94b3855eb52550d282c"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿  bm3d.cpp
+  bm3d_wiener.cpp
+C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\bm3d_wiener.cpp(100,35): warning C4244: =: преобразование "int" в "PatchType", возможна потеря данных
+C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\bm3d_wiener.cpp(325,19): warning C4244: инициализация: преобразование "double" в "PatchType", возможна потеря данных
+  cbm3d.cpp
+  cbm3d_wiener.cpp
+C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\cbm3d_wiener.cpp(81,33): warning C4244: =: преобразование "int" в "PatchType", возможна потеря данных
+  group_3d.cpp
+  main.cpp
+  Создание кода...
+  BM3D_cpp.vcxproj -> C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\x64\Debug\BM3D_cpp.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>bm3d.cpp</FILENAME>
+      <LINE>38</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "BM3D::ftime" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>BM3D::{ctor}</FUNCTION>
+    <DECORATED>??0BM3D@@QEAA@HHHHHHHHH@Z</DECORATED>
+    <FUNCLINE>38</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>BM3D::ftime</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>bm3d_wiener.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "BM3D_WIE::refer_noisy" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>BM3D_WIE::{ctor}</FUNCTION>
+    <DECORATED>??0BM3D_WIE@@QEAA@HHHHHHHHH@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>BM3D_WIE::refer_noisy</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>cbm3d.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "CBM3D::refer_yuv" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>CBM3D::{ctor}</FUNCTION>
+    <DECORATED>??0CBM3D@@QEAA@HHHHHHHHH@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CBM3D::refer_yuv</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>cbm3d_wiener.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "CBM3D_WIE::refer_noisy_yuv" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>CBM3D_WIE::{ctor}</FUNCTION>
+    <DECORATED>??0CBM3D_WIE@@QEAA@HHHHHHHHH@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CBM3D_WIE::refer_noisy_yuv</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>group_3d.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "Group3D::num" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>Group3D::{ctor}</FUNCTION>
+    <DECORATED>??0Group3D@@QEAA@HHH@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Group3D::num</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\src\vcpkg\vcpkg\installed\x64-windows\include\opencv2\core\</FILEPATH>
+      <FILENAME>mat.inl.hpp</FILENAME>
+      <LINE>1239</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "cv::MatStep::buf" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>cv::MatStep::{ctor}</FUNCTION>
+    <DECORATED>??0MatStep@cv@@QEAA@XZ</DECORATED>
+    <FUNCLINE>1239</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cv::MatStep::buf</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\src\vcpkg\vcpkg\installed\x64-windows\include\opencv2\core\</FILEPATH>
+      <FILENAME>mat.inl.hpp</FILENAME>
+      <LINE>1245</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "cv::MatStep::buf" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>cv::MatStep::{ctor}</FUNCTION>
+    <DECORATED>??0MatStep@cv@@QEAA@_K@Z</DECORATED>
+    <FUNCLINE>1245</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cv::MatStep::buf</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\src\vcpkg\vcpkg\installed\x64-windows\include\opencv2\core\</FILEPATH>
+      <FILENAME>async.hpp</FILENAME>
+      <LINE>73</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>cv::AsyncArray::{ctor}</FUNCTION>
+    <DECORATED>??0AsyncArray@cv@@QEAA@$$QEAV01@@Z</DECORATED>
+    <FUNCLINE>73</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\src\vcpkg\vcpkg\installed\x64-windows\include\opencv2\flann\</FILEPATH>
+      <FILENAME>matrix.h</FILENAME>
+      <LINE>95</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "cvflann::UntypedMatrix::type" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>cvflann::UntypedMatrix::{ctor}</FUNCTION>
+    <DECORATED>??0UntypedMatrix@cvflann@@QEAA@PEAXJJ@Z</DECORATED>
+    <FUNCLINE>95</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cvflann::UntypedMatrix::type</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\src\vcpkg\vcpkg\installed\x64-windows\include\opencv2\flann\</FILEPATH>
+      <FILENAME>lsh_table.h</FILENAME>
+      <LINE>102</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "cvflann::lsh::LshStats::bucket_size_max_" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>cvflann::lsh::LshStats::{ctor}</FUNCTION>
+    <DECORATED>??0LshStats@lsh@cvflann@@QEAA@XZ</DECORATED>
+    <FUNCLINE>102</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cvflann::lsh::LshStats::bucket_size_max_</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\src\vcpkg\vcpkg\installed\x64-windows\include\opencv2\stitching\detail\</FILEPATH>
+      <FILENAME>warpers.hpp</FILENAME>
+      <LINE>188</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "cv::detail::RotationWarperBase&lt;cv::detail::CompressedRectilinearProjector&gt;::projector_" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>cv::detail::RotationWarperBase&lt;cv::detail::CompressedRectilinearProjector&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$RotationWarperBase@UCompressedRectilinearProjector@detail@cv@@@detail@cv@@QEAA@XZ</DECORATED>
+    <FUNCLINE>188</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cv::detail::RotationWarperBase&lt;cv::detail::CompressedRectilinearProjector&gt;::projector_</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\src\vcpkg\vcpkg\installed\x64-windows\include\opencv2\flann\</FILEPATH>
+      <FILENAME>any.h</FILENAME>
+      <LINE>97</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6269</DEFECTCODE>
+    <DESCRIPTION>Возможно, неправильный порядок операций.</DESCRIPTION>
+    <FUNCTION>cvflann::anyimpl::big_any_policy&lt;enum cvflann::flann_algorithm_t&gt;::move</FUNCTION>
+    <DECORATED>?move@?$big_any_policy@W4flann_algorithm_t@cvflann@@@anyimpl@cvflann@@UEAAXPEBQEAXPEAPEAX@Z</DECORATED>
+    <FUNCLINE>95</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\src\vcpkg\vcpkg\installed\x64-windows\include\opencv2\core\</FILEPATH>
+      <FILENAME>utility.hpp</FILENAME>
+      <LINE>971</LINE>
+      <COLUMN>29</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "cv::AutoBuffer&lt;__int64,1&gt;::buf" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>cv::AutoBuffer&lt;__int64,1&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$AutoBuffer@_J$00@cv@@QEAA@XZ</DECORATED>
+    <FUNCLINE>971</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cv::AutoBuffer&lt;__int64,1&gt;::buf</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\src\vcpkg\vcpkg\installed\x64-windows\include\opencv2\core\</FILEPATH>
+      <FILENAME>matx.hpp</FILENAME>
+      <LINE>578</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6294</DEFECTCODE>
+    <DESCRIPTION>Неправильно определенный цикл for.  Тело цикла не выполняется.</DESCRIPTION>
+    <FUNCTION>cv::Matx&lt;float,3,1&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Matx@M$02$00@cv@@QEAA@MMM@Z</DECORATED>
+    <FUNCLINE>574</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\src\vcpkg\vcpkg\installed\x64-windows\include\opencv2\core\</FILEPATH>
+      <FILENAME>matx.hpp</FILENAME>
+      <LINE>578</LINE>
+      <COLUMN>43</COLUMN>
+    </SFA>
+    <DEFECTCODE>6201</DEFECTCODE>
+    <DESCRIPTION>Индекс "3" находится вне диапазона от "0" до "2" для буфера "this-&gt;val", возможно, размещенного в стеке.</DESCRIPTION>
+    <FUNCTION>cv::Matx&lt;float,3,1&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Matx@M$02$00@cv@@QEAA@MMM@Z</DECORATED>
+    <FUNCLINE>574</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\src\vcpkg\vcpkg\installed\x64-windows\include\opencv2\core\</FILEPATH>
+      <FILENAME>matx.hpp</FILENAME>
+      <LINE>570</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6294</DEFECTCODE>
+    <DESCRIPTION>Неправильно определенный цикл for.  Тело цикла не выполняется.</DESCRIPTION>
+    <FUNCTION>cv::Matx&lt;float,2,1&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Matx@M$01$00@cv@@QEAA@MM@Z</DECORATED>
+    <FUNCLINE>566</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\src\vcpkg\vcpkg\installed\x64-windows\include\opencv2\core\</FILEPATH>
+      <FILENAME>matx.hpp</FILENAME>
+      <LINE>570</LINE>
+      <COLUMN>43</COLUMN>
+    </SFA>
+    <DEFECTCODE>6201</DEFECTCODE>
+    <DESCRIPTION>Индекс "2" находится вне диапазона от "0" до "1" для буфера "this-&gt;val", возможно, размещенного в стеке.</DESCRIPTION>
+    <FUNCTION>cv::Matx&lt;float,2,1&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Matx@M$01$00@cv@@QEAA@MM@Z</DECORATED>
+    <FUNCLINE>566</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\src\vcpkg\vcpkg\installed\x64-windows\include\opencv2\core\</FILEPATH>
+      <FILENAME>matx.hpp</FILENAME>
+      <LINE>586</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6294</DEFECTCODE>
+    <DESCRIPTION>Неправильно определенный цикл for.  Тело цикла не выполняется.</DESCRIPTION>
+    <FUNCTION>cv::Matx&lt;float,4,1&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Matx@M$03$00@cv@@QEAA@MMMM@Z</DECORATED>
+    <FUNCLINE>582</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\src\vcpkg\vcpkg\installed\x64-windows\include\opencv2\core\</FILEPATH>
+      <FILENAME>matx.hpp</FILENAME>
+      <LINE>586</LINE>
+      <COLUMN>43</COLUMN>
+    </SFA>
+    <DEFECTCODE>6201</DEFECTCODE>
+    <DESCRIPTION>Индекс "4" находится вне диапазона от "0" до "3" для буфера "this-&gt;val", возможно, размещенного в стеке.</DESCRIPTION>
+    <FUNCTION>cv::Matx&lt;float,4,1&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Matx@M$03$00@cv@@QEAA@MMMM@Z</DECORATED>
+    <FUNCLINE>582</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>patch_2d.cpp</FILENAME>
+      <LINE>4</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "Patch2D::x" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>Patch2D::{ctor}</FUNCTION>
+    <DECORATED>??0Patch2D@@QEAA@HH@Z</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Patch2D::x</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

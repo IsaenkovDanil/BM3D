@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>cbm3d_wiener.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "CBM3D_WIE::refer_noisy_yuv" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>CBM3D_WIE::{ctor}</FUNCTION>
+    <DECORATED>??0CBM3D_WIE@@QEAA@HHHHHHHHH@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CBM3D_WIE::refer_noisy_yuv</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>cbm3d_wiener.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "CBM3D_WIE::refer_basic_yuv" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>CBM3D_WIE::{ctor}</FUNCTION>
+    <DECORATED>??0CBM3D_WIE@@QEAA@HHHHHHHHH@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CBM3D_WIE::refer_basic_yuv</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>cbm3d_wiener.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "CBM3D_WIE::numer_yuv" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>CBM3D_WIE::{ctor}</FUNCTION>
+    <DECORATED>??0CBM3D_WIE@@QEAA@HHHHHHHHH@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CBM3D_WIE::numer_yuv</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>cbm3d_wiener.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "CBM3D_WIE::denom_yuv" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>CBM3D_WIE::{ctor}</FUNCTION>
+    <DECORATED>??0CBM3D_WIE@@QEAA@HHHHHHHHH@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CBM3D_WIE::denom_yuv</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>cbm3d_wiener.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "CBM3D_WIE::wie_thres" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>CBM3D_WIE::{ctor}</FUNCTION>
+    <DECORATED>??0CBM3D_WIE@@QEAA@HHHHHHHHH@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CBM3D_WIE::wie_thres</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

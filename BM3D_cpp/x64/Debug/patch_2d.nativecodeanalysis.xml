@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>patch_2d.cpp</FILENAME>
+      <LINE>4</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "Patch2D::x" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>Patch2D::{ctor}</FUNCTION>
+    <DECORATED>??0Patch2D@@QEAA@HH@Z</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Patch2D::x</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>patch_2d.cpp</FILENAME>
+      <LINE>4</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "Patch2D::y" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>Patch2D::{ctor}</FUNCTION>
+    <DECORATED>??0Patch2D@@QEAA@HH@Z</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Patch2D::y</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>patch_2d.cpp</FILENAME>
+      <LINE>4</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "Patch2D::dist" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>Patch2D::{ctor}</FUNCTION>
+    <DECORATED>??0Patch2D@@QEAA@HH@Z</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Patch2D::dist</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

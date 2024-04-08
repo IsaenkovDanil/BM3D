@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>cbm3d.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "CBM3D::refer_yuv" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>CBM3D::{ctor}</FUNCTION>
+    <DECORATED>??0CBM3D@@QEAA@HHHHHHHHH@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CBM3D::refer_yuv</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>cbm3d.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "CBM3D::numer_yuv" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>CBM3D::{ctor}</FUNCTION>
+    <DECORATED>??0CBM3D@@QEAA@HHHHHHHHH@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CBM3D::numer_yuv</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>cbm3d.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "CBM3D::denom_yuv" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>CBM3D::{ctor}</FUNCTION>
+    <DECORATED>??0CBM3D@@QEAA@HHHHHHHHH@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CBM3D::denom_yuv</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\pekas\OneDrive\Рабочий стол\С++ЛАБ\q\BM3D_cpp\BM3D_cpp\</FILEPATH>
+      <FILENAME>cbm3d.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "CBM3D::hard_thres" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>CBM3D::{ctor}</FUNCTION>
+    <DECORATED>??0CBM3D@@QEAA@HHHHHHHHH@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CBM3D::hard_thres</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

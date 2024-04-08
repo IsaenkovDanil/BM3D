@@ -1,0 +1,338 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"BM3D_WIE::refer_noisy\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/bm3d_wiener.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 11
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "BM3D_WIE::{ctor}",
+                  "decoratedName": "??0BM3D_WIE@@QEAA@HHHHHHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "BM3D_WIE::refer_noisy"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"BM3D_WIE::refer_basic\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/bm3d_wiener.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 11
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "BM3D_WIE::{ctor}",
+                  "decoratedName": "??0BM3D_WIE@@QEAA@HHHHHHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "BM3D_WIE::refer_basic"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"BM3D_WIE::numer\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/bm3d_wiener.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 11
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "BM3D_WIE::{ctor}",
+                  "decoratedName": "??0BM3D_WIE@@QEAA@HHHHHHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "BM3D_WIE::numer"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"BM3D_WIE::denom\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/bm3d_wiener.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 11
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "BM3D_WIE::{ctor}",
+                  "decoratedName": "??0BM3D_WIE@@QEAA@HHHHHHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "BM3D_WIE::denom"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"BM3D_WIE::wie_wgt_sum\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/bm3d_wiener.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 11
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "BM3D_WIE::{ctor}",
+                  "decoratedName": "??0BM3D_WIE@@QEAA@HHHHHHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "BM3D_WIE::wie_wgt_sum"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"BM3D_WIE::ncnt\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/bm3d_wiener.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 11
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "BM3D_WIE::{ctor}",
+                  "decoratedName": "??0BM3D_WIE@@QEAA@HHHHHHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "BM3D_WIE::ncnt"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"BM3D_WIE::gtime\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/bm3d_wiener.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 11
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "BM3D_WIE::{ctor}",
+                  "decoratedName": "??0BM3D_WIE@@QEAA@HHHHHHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "BM3D_WIE::gtime"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"BM3D_WIE::ftime\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/bm3d_wiener.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 11
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "BM3D_WIE::{ctor}",
+                  "decoratedName": "??0BM3D_WIE@@QEAA@HHHHHHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "BM3D_WIE::ftime"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"BM3D_WIE::atime\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/bm3d_wiener.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 11
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "BM3D_WIE::{ctor}",
+                  "decoratedName": "??0BM3D_WIE@@QEAA@HHHHHHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "BM3D_WIE::atime"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33521.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/bm3d_wiener.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "8f76c47aa3ea3c7ae8dbd4a4dbb7fd718167910eaed5c9fa40b5ead163423afc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/bm3d_wiener.h"
+          },
+          "hashes": {
+            "sha-256": "12cb572e6b6ac473049140204bcf8d6193bca4d4c2259b4d6f55a9c503fa7569"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/global_define.h"
+          },
+          "hashes": {
+            "sha-256": "e5f94a1421d4d92bfd2ecf42619430edbbd1d89bfbc693e0c53710670a8c0bc8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/patch_2d.h"
+          },
+          "hashes": {
+            "sha-256": "da8944e65688c0d7c3a63c7772b4d2e39713ee2779d802fc319c8eb85a0ee68a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/transform.h"
+          },
+          "hashes": {
+            "sha-256": "fb9ba5bc721b0c4a9dd852eb4a4a68d93e102f5d1f10b13b91a85adb0071f6f7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/group_3d.h"
+          },
+          "hashes": {
+            "sha-256": "b48264ba29d48b4064f7a5b4e5acb2e0a68d4a8f01b9f3877c8dd7099742c61f"
+          }
+        }
+      ]
+    }
+  ]
+}

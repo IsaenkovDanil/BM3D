@@ -1,0 +1,230 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"CBM3D_WIE::refer_noisy_yuv\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/cbm3d_wiener.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CBM3D_WIE::{ctor}",
+                  "decoratedName": "??0CBM3D_WIE@@QEAA@HHHHHHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CBM3D_WIE::refer_noisy_yuv"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"CBM3D_WIE::refer_basic_yuv\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/cbm3d_wiener.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CBM3D_WIE::{ctor}",
+                  "decoratedName": "??0CBM3D_WIE@@QEAA@HHHHHHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CBM3D_WIE::refer_basic_yuv"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"CBM3D_WIE::numer_yuv\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/cbm3d_wiener.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CBM3D_WIE::{ctor}",
+                  "decoratedName": "??0CBM3D_WIE@@QEAA@HHHHHHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CBM3D_WIE::numer_yuv"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"CBM3D_WIE::denom_yuv\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/cbm3d_wiener.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CBM3D_WIE::{ctor}",
+                  "decoratedName": "??0CBM3D_WIE@@QEAA@HHHHHHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CBM3D_WIE::denom_yuv"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"CBM3D_WIE::wie_thres\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/cbm3d_wiener.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CBM3D_WIE::{ctor}",
+                  "decoratedName": "??0CBM3D_WIE@@QEAA@HHHHHHHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CBM3D_WIE::wie_thres"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33521.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/cbm3d_wiener.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "069fb3f2d44bd2fd2610d8be68ed3a1b5b5af8baf08971f1c5e0365c2faa45a2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/cbm3d_wiener.h"
+          },
+          "hashes": {
+            "sha-256": "f6bb0b9602e54dd5b4e59bed7de756a407ef627adbdbc7764b90084eb8239020"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/bm3d_wiener.h"
+          },
+          "hashes": {
+            "sha-256": "12cb572e6b6ac473049140204bcf8d6193bca4d4c2259b4d6f55a9c503fa7569"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/global_define.h"
+          },
+          "hashes": {
+            "sha-256": "e5f94a1421d4d92bfd2ecf42619430edbbd1d89bfbc693e0c53710670a8c0bc8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/patch_2d.h"
+          },
+          "hashes": {
+            "sha-256": "da8944e65688c0d7c3a63c7772b4d2e39713ee2779d802fc319c8eb85a0ee68a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/transform.h"
+          },
+          "hashes": {
+            "sha-256": "fb9ba5bc721b0c4a9dd852eb4a4a68d93e102f5d1f10b13b91a85adb0071f6f7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/group_3d.h"
+          },
+          "hashes": {
+            "sha-256": "b48264ba29d48b4064f7a5b4e5acb2e0a68d4a8f01b9f3877c8dd7099742c61f"
+          }
+        }
+      ]
+    }
+  ]
+}

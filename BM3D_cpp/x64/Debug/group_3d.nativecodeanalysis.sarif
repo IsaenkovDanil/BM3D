@@ -1,0 +1,214 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"Group3D::num\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/group_3d.cpp"
+                },
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Group3D::{ctor}",
+                  "decoratedName": "??0Group3D@@QEAA@HHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Group3D::num"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"Group3D::log_num\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/group_3d.cpp"
+                },
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Group3D::{ctor}",
+                  "decoratedName": "??0Group3D@@QEAA@HHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Group3D::log_num"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"Group3D::max_dist\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/group_3d.cpp"
+                },
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Group3D::{ctor}",
+                  "decoratedName": "??0Group3D@@QEAA@HHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Group3D::max_dist"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"Group3D::thres\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/group_3d.cpp"
+                },
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Group3D::{ctor}",
+                  "decoratedName": "??0Group3D@@QEAA@HHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Group3D::thres"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Переменная \"Group3D::nonzeros\" не инициализирована. Всегда инициализируйте переменную-член (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/group_3d.cpp"
+                },
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Group3D::{ctor}",
+                  "decoratedName": "??0Group3D@@QEAA@HHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Group3D::nonzeros"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33521.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/pekas/OneDrive/Рабочий стол/С++ЛАБ/q/BM3D_cpp/BM3D_cpp/group_3d.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "e1df81e98e15de3b822921c889ffb425143b48fabf059e183b174f4a356eceba"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/group_3d.h"
+          },
+          "hashes": {
+            "sha-256": "b48264ba29d48b4064f7a5b4e5acb2e0a68d4a8f01b9f3877c8dd7099742c61f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/patch_2d.h"
+          },
+          "hashes": {
+            "sha-256": "da8944e65688c0d7c3a63c7772b4d2e39713ee2779d802fc319c8eb85a0ee68a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/global_define.h"
+          },
+          "hashes": {
+            "sha-256": "e5f94a1421d4d92bfd2ecf42619430edbbd1d89bfbc693e0c53710670a8c0bc8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/pekas/onedrive/рабочий стол/с++лаб/q/bm3d_cpp/bm3d_cpp/transform.h"
+          },
+          "hashes": {
+            "sha-256": "fb9ba5bc721b0c4a9dd852eb4a4a68d93e102f5d1f10b13b91a85adb0071f6f7"
+          }
+        }
+      ]
+    }
+  ]
+}
